@@ -1,0 +1,57 @@
+# =========================
+# Node modules (IMPORTANT)
+# =========================
+node_modules/
+
+# =========================
+# Logs
+# =========================
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment files (SECRET)
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build folders
+# =========================
+dist/
+build/
+
+# =========================
+# Vite cache
+# =========================
+.vite/
+
+# =========================
+# IDE files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# pnpm store
+# =========================
+.pnpm-store/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
